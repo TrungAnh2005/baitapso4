@@ -1,0 +1,15 @@
+#card{
+    text-align: center;
+}
+.card-1{
+    color: white;
+    background-color: darkslategrey;
+    font-size: 20PX;
+}
+.card-2{
+    color: cornflowerblue;
+}
+.card-3{
+    color: white;
+    background-color:black;
+}
